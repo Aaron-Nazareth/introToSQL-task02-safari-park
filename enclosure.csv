@@ -1,0 +1,4 @@
+"id","name","capacity","closedformaintenance"
+1,"Land",20,FALSE
+2,"Sea",20,TRUE
+3,"Pets",20,FALSE
